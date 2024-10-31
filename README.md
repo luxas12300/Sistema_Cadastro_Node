@@ -24,3 +24,5 @@ Esta éa documentação de requisitos para a API de Agenda de Contatos. Esta API
 - A autorizaçõa é baseada em funções de usuários, como administrador e usuário regular.
 - Todos os dados da API devem ser armazenados de forma segura e protegidos contra acessos não autorizados.
 - As entradas do usuário devem ser validadas para evitar a inserção de dados incorretos ou maliciosos.
+# Sistema_Cadastro_Node
+um sistema de cadastro em Node onde utilizei Fastify no Node, utilizei o ORM Prisma para manioulação do Banco de Dados e testes automatizados com Vitest
